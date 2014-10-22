@@ -1,0 +1,4 @@
+---- (char*)-1 Matches (3 in 1 files) ----
+Debug.c (src):        *((char*)-1) = 'x';
+Debug.c (src):    *((char*)-1) = 'x';
+Debug.c (src):    *((char*)-1) = 'x';
