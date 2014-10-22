@@ -1,0 +1,3 @@
+---- hashFunction Matches (2 in 1 files) ----
+Dict.h (src):    unsigned int (*hashFunction)(const void *key);
+Dict.h (src):#define dictHashKey(d, key) (d)->type->hashFunction(key)
